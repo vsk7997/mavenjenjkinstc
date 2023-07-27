@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> WELCOM April and May DevOps Batch!!!!!!!!</h2>
+	<h2> WELCOM to all BRO movie realising on 28th july!!!!!!!!</h2>
   
 </body>
 </html>
